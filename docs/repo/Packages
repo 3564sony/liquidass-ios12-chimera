@@ -1,0 +1,19 @@
+Package: dylv.liquidass
+Version: 0.1.1-2b+ios12
+Architecture: iphoneos-arm
+Maintainer: dylv
+Installed-Size: 8576
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 13.0), preferenceloader, com.opa334.altlist
+Conflicts: dylv.blurless
+Replaces: dylv.blurless
+Filename: debs/dylv.liquidass_0.1.1-2b+ios12_iphoneos-arm.deb
+Size: 4188434
+MD5sum: e3ebc306c0e409d61de7e459e7bdde55
+SHA1: 263c00a86a26f5eac66acb9ae497e01068ad9524
+SHA256: 076566383b74fe3dc3d1ddd3e75a2e59fdf7a294a6a8ee1d1a93a03e629506da
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+

@@ -1,0 +1,7 @@
+Origin: LiquidAss iOS 12 Chimera
+Label: LiquidAss iOS 12 Chimera
+Suite: stable
+Codename: ios12
+Architectures: iphoneos-arm
+Components: main
+Description: Experimental LiquidAss compatibility build for rootful Chimera/Sileo on iOS 12

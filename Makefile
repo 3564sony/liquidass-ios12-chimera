@@ -1,13 +1,13 @@
-export TARGET 			:= iphone:clang:16.5:14.0
-export ARCHS 			:= arm64 arm64e
+export TARGET 			:= iphone:clang:12.4:12.0
+export ARCHS 			:= arm64
 export USE_DEPS 		:= 1
-THEOS_PACKAGE_SCHEME	?= rootless
+THEOS_PACKAGE_SCHEME	?= legacy
 
 CCACHE := $(shell command -v ccache 2>/dev/null)
 export TARGET_CC 		:= $(CCACHE) $(shell xcrun -f clang)
 export TARGET_CXX 		:= $(CCACHE) $(shell xcrun -f clang++)
 
-INSTALL_TARGET_PROCESSES = backboardd SpringBoard chronod WidgetRenderer-Default WidgetRenderer-CarPlay assistivetouchd
+INSTALL_TARGET_PROCESSES = SpringBoard backboardd
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = liquidass
