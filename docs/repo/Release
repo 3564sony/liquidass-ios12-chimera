@@ -1,7 +1,21 @@
 Origin: LiquidAss iOS 12 Chimera
 Label: LiquidAss iOS 12 Chimera
 Suite: stable
+Version: 1.0
 Codename: ios12
 Architectures: iphoneos-arm
 Components: main
 Description: Experimental LiquidAss compatibility build for rootful Chimera/Sileo on iOS 12
+Date: Thu, 05 Nov 2026 05:37:48 +0000
+MD5Sum:
+ 39ceec82f1b2ffaeaed0f0f3a8f02853 676 Packages
+ c24192a2228179dcb8fa3dc6d4a58ad0 468 Packages.gz
+SHA1:
+ 1abccd4a36985e1c51a5e87e782431a6173deacb 676 Packages
+ ed5516230160af1d8958152e9c7b8cba1c2e0f5b 468 Packages.gz
+SHA256:
+ 7dfb7c51374b25d8b97d2445ce2ee14f7d95d9a355c98c9a7fbf5ea9b4960d12 676 Packages
+ 3057bfe0d4e6accc85b92d052e5b737ac30db0079ee5fb2c0d0f64218a4250cf 468 Packages.gz
+SHA512:
+ 5d05e76ecfb00e3f00718794ce3ecc374ad9001747d8d24e1f4a18a7fdc681f6c764455917b0cc1d81f11a404e22dd1a3d24d61691a019f47417ffced95b4ff8 676 Packages
+ ee84c670bf420b25b23091e7343b86e14c1cafc36287a644eda5674bea8cb4e381f2475beee2b163b56ff077ac0b419ba0022f284bb44f37880c2cb61f17c9f6 468 Packages.gz
