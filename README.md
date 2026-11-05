@@ -5,10 +5,10 @@ This is an experimental rootful/legacy compatibility fork of [winaviation-tweaks
 ## Add to Sileo
 
 ```text
-https://devsparkle558.github.io/liquidass-ios12-chimera/repo/
+https://3564sony.github.io/liquidass-ios12-chimera/repo/
 ```
 
-Install `Liquid (Gl)ass` from the repo. The package targets `iphoneos-arm`, requires firmware `12.0` through below `13.0`, and is intended for a rootful Chimera environment.
+Install Liquid (Gl)ass from the repo. The package targets `iphoneos-arm`, requires firmware `12.0` through below `13.0`, and is intended for a rootful Chimera environment.
 
 ## Important warning
 
