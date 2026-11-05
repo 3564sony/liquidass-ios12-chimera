@@ -6,16 +6,20 @@ Codename: ios12
 Architectures: iphoneos-arm
 Components: main
 Description: Experimental LiquidAss compatibility build for rootful Chimera/Sileo on iOS 12
-Date: Thu, 05 Nov 2026 05:37:48 +0000
+Date: Thu, 05 Nov 2026 14:05:36 +0000
 MD5Sum:
  39ceec82f1b2ffaeaed0f0f3a8f02853 676 Packages
  c24192a2228179dcb8fa3dc6d4a58ad0 468 Packages.gz
+ aacb230c42c34827761069ded69fcc9c 525 Packages.bz2
 SHA1:
  1abccd4a36985e1c51a5e87e782431a6173deacb 676 Packages
  ed5516230160af1d8958152e9c7b8cba1c2e0f5b 468 Packages.gz
+ eda11b4aee6bd407ffff80b85a7d2253c263bdb0 525 Packages.bz2
 SHA256:
  7dfb7c51374b25d8b97d2445ce2ee14f7d95d9a355c98c9a7fbf5ea9b4960d12 676 Packages
  3057bfe0d4e6accc85b92d052e5b737ac30db0079ee5fb2c0d0f64218a4250cf 468 Packages.gz
+ 43692331cdf280a2d955021be3939bd06d500c39574f00b8cbf37d2423e4dcaa 525 Packages.bz2
 SHA512:
  5d05e76ecfb00e3f00718794ce3ecc374ad9001747d8d24e1f4a18a7fdc681f6c764455917b0cc1d81f11a404e22dd1a3d24d61691a019f47417ffced95b4ff8 676 Packages
  ee84c670bf420b25b23091e7343b86e14c1cafc36287a644eda5674bea8cb4e381f2475beee2b163b56ff077ac0b419ba0022f284bb44f37880c2cb61f17c9f6 468 Packages.gz
+ 28c229a3137378b12dafbb1adf5cd4c4e871f84206fdb0faf9170bb6975dbfd23d9dc5845f1d4fe71774619c5fd3f385b643e6981b244fcaaf2bcb16cf6758f3 525 Packages.bz2
